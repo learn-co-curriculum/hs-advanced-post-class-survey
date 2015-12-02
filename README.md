@@ -7,3 +7,5 @@ Let us know what you thought of today's class by [filling out the micro feedback
 <img src="https://s3.amazonaws.com/after-school-assets/survey.jpg" width="400">
 <br>
 <br>
+
+<a href='https://learn.co/lessons/hs-advanced-post-class-survey' data-visibility='hidden'>View this lesson on Learn.co</a>
