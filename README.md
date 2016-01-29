@@ -8,4 +8,4 @@ Let us know what you thought of today's class by [filling out the micro feedback
 <br>
 <br>
 
-<a href='https://learn.co/lessons/hs-advanced-post-class-survey' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-advanced-post-class-survey' title='Great job today!'>Great job today!</a> on Learn.co and start learning to code for free.</p>
